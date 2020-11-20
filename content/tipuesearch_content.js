@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is  https://github.com/mdecourse/cmstemplate \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is  https://github.com/mdecourse/cmstemplate \n', 'tags': '', 'url': 'About.html'}, {'title': '組員名單', 'text': '第一組 \n 40723224 \xa0 范誠宇 40823204 \xa0 賴惟嘉 40823212 \xa0 陳逸翔 40823215 \xa0 謝閎璾 40823219 \xa0 廖顯紘 40823225 \xa0 徐誠隆 \xa0 40823226 \xa0 蘇柏瑋\xa0 40823234 \xa0 游子毅 40823250 \xa0 張哲瑀 40823251 \xa0 林進益 40832244 \xa0 林晉廷 \n', 'tags': '', 'url': '組員名單.html'}]};
